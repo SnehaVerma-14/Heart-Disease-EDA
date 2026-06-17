@@ -37,6 +37,31 @@ This project uses the UCI Heart Disease dataset.
 - Chest pain type provides valuable information about disease status.
 - Cholesterol, blood pressure, and maximum heart rate show meaningful patterns.
 - Correlation analysis helps identify relationships among clinical features.
+  
+## 📈 Visualizations
+- Heart Disease Distribution
+- Age Distribution
+- Gender Analysis
+- Cholesterol Analysis
+- Blood Pressure Analysis
+- Maximum Heart Rate Analysis
+- Chest Pain Analysis
+- Correlation Heatmap
+
+## 📊 Libraries Used
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+## ▶️ How to Run
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Open the notebook and run all cells
+
+## 📌 Results
+The analysis identifies important relationships between patient characteristics and heart disease, providing useful insights before predictive modeling.
 
 ## 📌 Future Improvements
 - Build a machine learning model for heart disease prediction.
